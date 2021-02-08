@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Skyblock 2 Sounds!",
+        "name": "Skyblock 2 Sounds!",
+        "uuid": "d2b88939-46dc-4149-a734-c536d5efb71c",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Skyblock 2 Sounds!",
+            "type": "resources",
+            "uuid": "afd41a46-e4cf-498e-b584-7873e205ab59",
+            "version": [0, 0, 1]
+        }
+    ]
+}
