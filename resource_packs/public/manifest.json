@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Elimination chat change.",
+        "name": "DerpehDoge Skywars ChatChange",
+        "uuid": "52bf7dab-d75f-48f5-8145-fe0b3bdb0e3d",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 14, 50]
+    },
+    "modules": [
+        {
+            "description": "yes.",
+            "type": "resources",
+            "uuid": "bb8880c9-97ec-4e2c-8941-bc8faa6e94a8",
+            "version": [0, 0, 1]
+        }
+    ]
+}
