@@ -12,6 +12,6 @@ if you want to get the most recent version (commits), follow these steps:
 - After you zip it, be sure to change the .zip to .mcworld
 
 if you know your git stuff
-you can clone the git repo into the worlds folder
-you can create a new world, then just copy the name. you can delete the world afterwards.
-after you do this, if you want to update the world, you can git pull. this will overwrite your world, however.
+- you can clone the git repo into the worlds folder
+- you can create a new world, then just copy the name. you can delete the world afterwards.
+- after you do this, if you want to update the world, you can git pull. this will overwrite your world, however.
