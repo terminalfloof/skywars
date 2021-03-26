@@ -26,10 +26,13 @@ after you do this, if you want to update the world, you can git pull. this will 
 `OVERRIDE PROXY`
 Start the game no matter what. Even if there's only one player opting in.
 Use wisely.
+
 `EVENT MESSAGES`
 If you're not ingame, you can toggle the event messages if they get annoying.
+
 `Who's opted in?`
 This should be self-explanatory.
+
 `FIX 1-P PROXY BUG`
 Is your game:
 - Stuck on "game in progress"?
@@ -38,5 +41,6 @@ Is your game:
 - One person doesn't want to respawn?
 You can press this button to prematurely end the game.
 **NOTE: PRESSING THIS BUTTON AFTER A GAME HAS ALREADY ENDED WILL CAUSE THE LAST WINNER TO GET ANOTHER WIN.**
+
 `sumo`
 go to sumo platform lol
