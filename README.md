@@ -19,7 +19,22 @@ after you do this, if you want to update the world, you can git pull. this will 
 ## essential commands
 
 `/tp (user) -5 2 8` reset person's playing status and teleport them back to spawn)
+
 `/setblock 4 2 4 concrete 0` change game status from "playing" to "not playing"
+
+`/gamerule pvp true` allow people to sumo with bows B)
+
+`/tp 0 100 0` go to spawn
+
+`/tp 0 4 0` go to commands area (don't break pls)
+
+`/setblock 7 1 7 redstone_block` refill chests ;D
+
+`/setblock 10 1 9 redstone_block` get the glass cages up
+
+`/setblock 10 2 9 redstone_block` remove the glass cages
+
+`/setblock 5 1 15 redstone_block` start the game
 
 ## settings
 
