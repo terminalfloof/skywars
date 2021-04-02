@@ -36,6 +36,9 @@ after you do this, if you want to update the world, you can git pull. this will 
 
 `/setblock 5 1 15 redstone_block` start the game
 
+`/scoreboard players set @p playing 2` turn off resistance (if not ingame)
+change @p to the playername/selector
+
 ## settings
 
 `OVERRIDE PROXY`
