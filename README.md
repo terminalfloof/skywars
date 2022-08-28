@@ -1,5 +1,5 @@
 # skywars
-oh hi this is a map made by some idots kthxbye
+oh hi this is an OUTDATED minecraft education edition map made by a group of idiots
 
 
 download the map using the releases shown on the right side
